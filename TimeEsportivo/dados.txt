@@ -1,0 +1,14 @@
+Marcos,20/08/1993,Brasileiro,p,5000,Inter
+Pedro,10/12/2003,Chileno,b,3500,Grêmio
+Paulo,18/07/2005,Argentino,b,3780,Grêmio
+Júlio,07/04/2003,Chinês,b,2950,Grêmio
+Joseph,14/02/1999,Coreano,p,4894,Juventude
+Henrique,18/07/1970,Africano,p,7000,Santos
+Lucas,30/12/1965,Francês,p,8500,Grêmio
+Gustavo,21/01/2006,Colombiano,b,3200,Grêmio
+Antonio,29/05/1994,Haitiano,p,7500,Inter
+José,13/06/1978,Hondurenho,p,6898,Santos
+Arthur,09/10/1965,Indiano,p,7000,Santos
+Joaquim,07/09/2000,Guianês,p,5900,Juventude
+Carlos,07/09/1930,Guianês,p,5900,Juventude
+Diego,07/08/2000,Brasileiro,p,4680,Inter
